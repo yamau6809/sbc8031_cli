@@ -1,0 +1,8 @@
+﻿10     FOR I=1 TO 3
+20     READ A,B
+30     PRINT A,B
+40     NEXT I
+50     RESTORE
+60     READ A,B
+70     PRINT A,B
+80     DATA 10,20,10/2,20/2,SIN(PI),COS(PI)
